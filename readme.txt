@@ -1,7 +1,7 @@
 Nette Framework Sandbox
 =======================
 
-The basic skeleton of application.
+The basic skeleton of application - dev
 
 
 What is [Nette Framework](http://nette.org)?
